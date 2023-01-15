@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Calabria' rel='stylesheet'>
+    <meta charset="UTF-8">
+    <title>Ficha de Treino da Brenda</title>
+    <style> 
+        ul, ol {
+            list-style-type: none;
+        }
+        li {
+            margin-bottom: 15px;
+        }
+        iframe {
+            margin-bottom: 40px;
+        }
+        .top-banner {
+            background-color: #4472C4;
+            width: 100%;
+            height: 110%;
+        }
+        body{
+            background-color: #D9D9D9;
+            text-align: center;
+        }
+        h1 {
+            text-align: center;
+            padding-top: 15px;
+            padding-bottom: 15px;
+            color: white;
+        }
+    </style>
+  </head>
+  <body>
+    <div class="top-banner">
+        <h1>Ficha de Treino da Brenda</h1>
+    </div>
+    <h2>Segunda-feira: Treino de pernas (quadríceps, isquiotibiais, glúteos)</h2>
+    <ul>
+      <li>Agachamento com barra: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/eVRAgGXtCNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Leg press: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/asN2pUJ5gZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Stiff leg deadlift: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/x-hWnX087ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Passadas: 3 séries de 12 reps (cada perna)</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/L8fvypPrzzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Flexão de perna na máquina: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dMYsB4Eb2BY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </ul>
+    <h2>Terça-feira: Aeróbico (corrida, caminhada, bicicleta)</h2>
+    <ul>
+      <li>40 minutos de atividade cardiovascular</li>
+    </ul>
+    <h2>Quarta-feira: Treino de pernas (panturrilhas, coxas)</h2>
+    <ul>
+      <li>Leg curl sentado: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/A-mVsv_Obb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Panturrilha na máquina: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bZLNCtGI418" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Cadeira extensora: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MHuyh7LGNdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Agachamento sumo: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SozaXNWVZxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Cadeira adutora: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ob0TW9slbBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li> Cadeira abdutora: 3 séries de 12 reps</li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rI_8g_hBQBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </ul>
+    <h2>Quinta-feira: Treino superior (costas, braços)</h2>
+    <ul>
+      <li>Remada curvada: 3 séries de 12 reps</li>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/n-h4bOl5giM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Remada unilateral: 3 séries de 12 reps</li>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/HcyPuf31RmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Lombar na máquina: 3 séries of 12 reps</li>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/1pBx0LQwcOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Tríceps na polia: 3 séries de 12 reps</li>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/jsntw4tVAgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <li>Flexão de braço no solo: 3 séries de 12 reps</li>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/0T7V5o9ypUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </ul>
+    <h2>Sexta-feira: Aeróbico (corrida, caminhada, bicicleta)</h2>
+    <ul>
+      <li>40 minutos de atividade cardiovascular</li>
+    </ul>
+  </body>
+</html>
